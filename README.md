@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Dawn-Fan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Dawn-Fan/Dawn-Fan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+  ____                           _             
+ |  _ \  __ ___      ___ __ ___ (_)_ __   __ _ 
+ | | | |/ _` \ \ /\ / / '_ ` _ \| | '_ \ / _` |
+ | |_| | (_| |\ V  V /| | | | | | | | | | (_| |
+ |____/ \__,_| \_/\_/ |_| |_| |_|_|_| |_|\__, |
+                                         |___/ 
+```
+
+# **爱折腾，小软件，费大劲**
+# 简介
+**from：** 中国传媒大学  <br>
+
+**知乎：** https://www.zhihu.com/people/sixiaofan <br>
+**主页：**  https://dawming.cn <br>
+
+**研究领域:** 数据分析、nlp、小工具 <br>
+
+
+# 爱好
+剪辑、拍摄、瞎折腾、咖啡、电影
+
+# ing...
+
